@@ -1,0 +1,13 @@
+# JSON বা কনফিগারেশন ফাইলগুলোকে গণনায় না ধরার জন্য
+*.json linguist-generated
+*.lock linguist-generated
+
+# নির্দিষ্ট ফোল্ডার দেওয়ার জন্য (যেমন public বা dist)
+public/* linguist-vendored
+dist/* linguist-vendored
+
+# মেইন ল্যাঙ্গুয়েজ জোর করে সেট করার জন্য
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
