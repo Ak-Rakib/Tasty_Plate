@@ -3,7 +3,7 @@ import React from 'react';
 import { ArrowLeft, Navigation, Menu, Phone, MapPin } from 'lucide-react';
 
 const LocationsSection: React.FC = () => {
-  const address = "Road-6, Block-L, Eastern Housing, Pallabi 2nd link, Mirpur Dhaka";
+  const address = "Road-7, Block-L, Eastern Housing, Pallabi 2nd link, Mirpur Dhaka";
   const phoneNumber = "01410459768";
   const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`;
   
