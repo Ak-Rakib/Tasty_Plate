@@ -53,8 +53,8 @@ const LocationsSection: React.FC = () => {
                     Hours
                   </p>
                   <div className="space-y-2">
-                    <p className="text-lg text-white/80 font-bold">Daily: 11am–11pm</p>
-                    <p className="text-lg text-brand-red font-black uppercase italic">Weekends until 12am</p>
+                    <p className="text-lg text-white/80 font-bold">Daily: 11am–10pm</p>
+                    <p className="text-lg text-brand-red font-black uppercase italic">Weekends until 11am</p>
                   </div>
                 </div>
                 <div className="rounded-3xl bg-black/40 border border-white/5 p-8 hover:border-white/20 transition-all">
