@@ -7,8 +7,8 @@ const Marquee: React.FC = () => {
     "AUTHENTIC DHAKA SPICES",
     "CRAVE THE TASTY PLATE",
     "HAND-CRAFTED EVERYDAY",
-    "BEST BIRYANI IN MIRPUR",
-    "SINCE 2024",
+    "BEST BIRYANI IN EASTERN HOUSING MIRPUR",
+    "SINCE 2026",
   ];
 
   return (

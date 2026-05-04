@@ -56,10 +56,10 @@ const Hero: React.FC<HeroProps> = ({ onAskAIClick }) => {
               <Star className="w-3 h-3 fill-brand-red" />
             </div>
             <h3 className="text-white font-display font-black uppercase text-xl sm:text-2xl leading-tight">
-              Chicken Tehari
+              BEEF TEhARI
             </h3>
             <p className="text-white/40 text-[10px] uppercase font-black tracking-widest mt-1">
-              Featured Specialty • ৳350
+              Featured Specialty • ৳360
             </p>
           </div>
         </div>
